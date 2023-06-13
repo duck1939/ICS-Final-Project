@@ -2,7 +2,7 @@
 Time limiter program, sorta.
 
 # Timer Pro v2
-Python scripts to process data for easy grade importing.
+Python script that sets a time based on how many hours, minutes, and seconds inputted.
 
 ## Managing time
 ### Problem
