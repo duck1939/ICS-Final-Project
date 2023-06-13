@@ -1,7 +1,4 @@
 # ICS-Final-Project
-Time limiter program, sorta.
-
-# Timer Pro v2
 Python script that sets a time based on how many hours, minutes, and seconds inputted.
 
 ## Managing time
