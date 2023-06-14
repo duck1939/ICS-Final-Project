@@ -9,7 +9,5 @@ Time management, argueably one of the hardest things to properly organize and ma
 Using python, this code helps you set a timer to help manage your future event/screen times.
 
 ### Setup
-Requirements: Python 3
+Install required packages using 'pip install requirements.txt'
 
-
-### Usage
